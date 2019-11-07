@@ -26,7 +26,7 @@ namespace InterfaceTransitivity
         }
     }
 
-    class Square : Shape
+    class Square : Shape /*, ISize */
     {
         public Square(double d)
         {
